@@ -18,7 +18,7 @@ navigation_logo = "/images/logo.png"
 navigation = [
     { name = "Home", link = "/" },
     { name = "About", link = "/about" },
-    { name = "Writing", link = "/archive" },
+    { name = "Writing", link = "/blog" },
     { name = "Projects", link = "/" },
 ]
 socials = [

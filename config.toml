@@ -20,10 +20,10 @@ highlight_theme = "one-dark"
 [extra]
 navigation_logo = "/images/logo.png"
 navigation = [
-    { name = "Home", link = "$BASE_URL" },
-    { name = "About", link = "$BASE_URL/about" },
-    { name = "Writing", link = "$BASE_URL/blog" },
-    { name = "Projects", link = "$BASE_URL/projects" },
+    { name = "Home", link = "/" },
+    { name = "About", link = "/about" },
+    { name = "Writing", link = "/blog" },
+    { name = "Projects", link = "/projects" },
 ]
 socials = [
     { name = "github", link = "https://github.com/cydave" },
